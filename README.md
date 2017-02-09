@@ -1,2 +1,2 @@
-# pauloesantos-github.io
+# pauloesantos.github.io
 Teste Institucional
